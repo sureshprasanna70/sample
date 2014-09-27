@@ -1,4 +1,5 @@
 ActiveAdmin.register Car do
+  permit_params :model, :previous, :schedule
 
 
   # See permitted parameters documentation:
