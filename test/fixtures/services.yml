@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  home_start: false
+  home_note: MyText
+  home_date: 2014-09-27 05:30:11
+  service_start: false
+  service_start_note: MyText
+  service_start_date: 2014-09-27 05:30:11
+  service_complete: false
+  service_complete_note: MyText
+  leave_center: false
+  leave_center_date: 2014-09-27 05:30:11
+  deliver: false
+  deliver_note: MyText
+  deliver_date: 2014-09-27 05:30:11
+  attachment: MyText
+
+two:
+  home_start: false
+  home_note: MyText
+  home_date: 2014-09-27 05:30:11
+  service_start: false
+  service_start_note: MyText
+  service_start_date: 2014-09-27 05:30:11
+  service_complete: false
+  service_complete_note: MyText
+  leave_center: false
+  leave_center_date: 2014-09-27 05:30:11
+  deliver: false
+  deliver_note: MyText
+  deliver_date: 2014-09-27 05:30:11
+  attachment: MyText
